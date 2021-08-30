@@ -45,8 +45,11 @@ Lista de Contato - CRUD Angular
 
 > Implementar a interface contatos
 
-> Gerar o build
+> Gerar o build da aplicação
 
     ng build --prod
     
-> Fazendo o deploy no [VERCEL](https://vercel.com/)     
+> Fazendo o deploy no [VERCEL](https://vercel.com/)  
+    > Intar o CLI da Vercel
+    
+        npm install -g vercel
