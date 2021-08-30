@@ -55,3 +55,7 @@ Lista de Contato - CRUD Angular
         npm install -g vercel
 
 > Executar o comando "vercel" no diretorio da aplicação
+    1 - Set up and deploy? 
+        Yes.
+    2 - Which scope do you want to deploy to? 
+        Confirme com seu usuario na Vesel
