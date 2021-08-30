@@ -53,3 +53,5 @@ Lista de Contato - CRUD Angular
     -Intar o CLI da Vercel
     
         npm install -g vercel
+
+> Executar o comando "vercel" no diretorio da aplicação
