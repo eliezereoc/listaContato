@@ -59,3 +59,7 @@ Lista de Contato - CRUD Angular
             Yes.  
     2 - Which scope do you want to deploy to?   
             Confirme com seu usuario na Vesel.    
+    3 - Link to existing project?  
+            No  
+    4 - Want to override the settings?  
+            No  
