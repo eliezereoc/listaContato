@@ -44,3 +44,7 @@ Lista de Contato - CRUD Angular
     > Implmentar metodos em services
 
 > Implementar a interface contatos
+
+> Gerar o build
+
+    ng build --prod
