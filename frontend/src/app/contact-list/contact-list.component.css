@@ -1,0 +1,19 @@
+mat-nav-list {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+mat-nav-list mat-list-item a {
+    font-size: 1.2em;
+}
+
+.create {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+}

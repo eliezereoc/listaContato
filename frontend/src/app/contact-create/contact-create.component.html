@@ -1,0 +1,19 @@
+<mat-toolbar color="primary">
+    <span>Novo Contatos</span>
+</mat-toolbar>
+
+<form class="form" [formGroup]="contatosForm" (ngSubmit)="criaNovoContato()">
+    <mat-form-field appearance="standard">
+        <mat-label>Nome</mat-label>
+        <input matInput formControlName="name">
+    </mat-form-field>
+    <mat-form-field appearance="standard">
+        <mat-label>Telefone</mat-label>
+        <input matInput formControlName="phone">
+    </mat-form-field>
+
+    <div class="actions">
+        <a routerLink="/contatos" mat-raised-button>Cancelar</a>
+        <button type="submit" mat-raised-button color="primary" [disabled]="contatosForm.invalid">Criar</button>
+    </div>
+</form>
