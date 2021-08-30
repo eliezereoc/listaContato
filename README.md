@@ -48,3 +48,5 @@ Lista de Contato - CRUD Angular
 > Gerar o build
 
     ng build --prod
+    
+> Fazendo o deploy no [VERCEL](https://vercel.com/)     
