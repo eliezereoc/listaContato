@@ -63,3 +63,5 @@ Lista de Contato - CRUD Angular
             No  
     4 - Want to override the settings?  
             No  
+            
+> Aguarde concluir o deploy e gerar a url da aplicação
